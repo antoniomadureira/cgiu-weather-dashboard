@@ -1,4 +1,4 @@
-const apiKey = "COLOCA_AQUI_A_TUA_API_KEY";
+const apiKey = "5e01b4459b429693bca7b046472a3c4e";
 const lat = 41.1821; // Matosinhos
 const lon = -8.6893;
 
