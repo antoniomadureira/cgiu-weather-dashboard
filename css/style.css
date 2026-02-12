@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b1220;
+    color: white;
+}
+
+header {
+    background: #111827;
+    padding: 20px;
+    text-align: center;
+}
+
+.dashboard {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: #1f2937;
+    padding: 30px;
+    border-radius: 15px;
+    width: 280px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.value {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.good { background: #065f46; }
+.moderate { background: #92400e; }
+.bad { background: #7f1d1d; }
